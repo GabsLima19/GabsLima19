@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   
-<body style="background-color:black;">
+<body>
 <h3>Sobre mim</h3>
 <p>Recém-formado em Sistemas de Informação com amplo conhecimento em todas as áreas de TI. Dedicação maior no desenvolvimento de softwares. Extremamente
   motivado e em constante desenvolvimento de minhas habilidades.</p>
