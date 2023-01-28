@@ -3,7 +3,7 @@
   
 <body>
 <h3>Sobre mim</h3>
-<p>Recém-formado em Sistemas de Informação com amplo conhecimento em todas as áreas de TI com dedicação maior no desenvolvimento de softwares. Extremamente motivado e em constante desenvolvimento de minhas habilidades.</p>
+<p>Recém-formado em Sistemas de Informação com amplo conhecimento em todas as áreas de TI, com dedicação maior no desenvolvimento de softwares. Sou extremamente motivado e estou em constante desenvolvimento de minhas habilidades.</p>
 
 <h4>Contato</h4>
 
