@@ -3,7 +3,7 @@
   
 <body>
 <h3>Sobre mim</h3>
-<p>• Recém-formado em Sistemas de Informação com amplo conhecimento em todas as áreas de TI. Atualmente atuando como Analista de Suporte Computacional. 
+<p>• Formado em Sistemas de Informação com amplo conhecimento em todas as áreas de TI. Atualmente atuando como Analista de Suporte Computacional. 
 <br>• Extremamente motivado e em constante desenvolvimento de minhas habilidades.</p>
 
 <h4>Contato</h4>
